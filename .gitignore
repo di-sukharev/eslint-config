@@ -2,7 +2,6 @@
 
 # Editors and IDE
 .idea
-.vscode
 .history
 api-connect
 
