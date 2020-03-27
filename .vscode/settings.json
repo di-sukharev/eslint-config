@@ -27,7 +27,6 @@
     "javascript.format.enable": false,
     "typescript.validate.enable": false,
     "typescript.format.enable": false,
-    "prettier.eslintIntegration": true,
     "explorer.confirmDelete": false,
     "eslint.autoFixOnSave": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
