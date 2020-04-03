@@ -1,5 +1,3 @@
-function name(param) {
-  const variable = param;
+const eslintrc = require("./.eslintrc.js");
 
-  param = ["single", "double"];
-}
+module.exports = eslintrc;

@@ -1,2 +1,3 @@
 # eslint-config 🌻
-Here I have my eslint + VScode configs.
+
+Here is my eslint + VScode configs.

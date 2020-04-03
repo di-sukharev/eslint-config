@@ -1,9 +1,9 @@
 {
-  "name": "eslint-config",
-  "version": "1.0.0",
-  "description": "My eslint config",
+  "name": "eslint-config-sukharev",
+  "version": "0.0.1",
+  "description": "Sukharev eslint config",
   "main": "index.js",
-  "author": "Dima Sukharev dima@sukharev.io",
+  "author": "Dima Sukharev <dima@sukharev.io>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/di-sukharev/eslint-config/issues"
@@ -20,7 +20,7 @@
     "lint",
     "config"
   ],
-  "devDependencies": {
+  "peerDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^6.8.0",
     "eslint-config-airbnb": "^18.1.0",
