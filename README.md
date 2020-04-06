@@ -18,7 +18,7 @@ npx install-peerdeps --dev eslint-config-sukharev
 
 ```json
 {
-  "extends": ["wesbos"]
+  "extends": ["sukharev"]
 }
 ```
 
