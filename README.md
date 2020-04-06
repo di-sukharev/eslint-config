@@ -9,7 +9,7 @@ Here is my eslint + VScode configs.
 2. Then we need to install everything needed by the config:
 
 ```
-npx install-peerdeps --dev eslint-config-wesbos
+npx install-peerdeps --dev eslint-config-sukharev
 ```
 
 3. You can see in your package.json there are now a big list of devDependencies.
