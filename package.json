@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-sukharev",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Sukharev eslint config",
   "main": "index.js",
   "author": "Dima Sukharev <dima@sukharev.io>",

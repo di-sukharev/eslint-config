@@ -15,6 +15,7 @@ module.exports = {
   },
   "rules": {
     "no-plusplus": 0,
+    "for-direction": 0,
     "no-debugger": 1,
     "no-alert": 1,
     "no-await-in-loop": 1,
