@@ -21,7 +21,6 @@ module.exports = {
     "no-return-assign": ["error", "except-parens"],
     "no-restricted-syntax": [
       2,
-      "ForInStatement",
       "LabeledStatement",
       "WithStatement"
     ],
